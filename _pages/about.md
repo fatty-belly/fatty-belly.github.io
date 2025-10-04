@@ -17,42 +17,71 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm currently a fourth year undergrad at Peking University (PKU), advised by [Prof. Wentao Zhang](https://zwt233.github.io/). My primary research interests lie in data-centric machine learning and its applications in large language models (LLMs). In particular, I focus on how high-quality data can be leveraged to enhance models’ generalization and logical reasoning abilities. I am also interested in how LLM agents can perform decision-making and reasoning in complex, dynamic settings.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Prior to this, I worked in Prof. Yitao Liang's [CraftJarvis](https://craftjarvis.github.io/) Team, committed to developing a generalist agent capable of mastering a wide range of tasks and challenges within the open-world Minecraft.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 Our survey page of "Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey" is out at [Awesome-AgenticRAG-Data](https://github.com/fatty-belly/Awesome-AgenticRAG-Data). 
+- *2025.06*: &nbsp;🎉🎉 Our paper "Open-World Skill Discovery from Unsegmented Demonstration Videos" is accepted by ICCV 2025.  
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SBD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<span class="paper-title">Open-World Skill Discovery from Unsegmented Demonstration Videos</span>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jingwen Deng\***, Zihao Wang\*, Shaofei Cai, Anji Liu, Yitao Liang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://arxiv.org/pdf/2503.10684) \| [**Project**](https://craftjarvis.github.io/SkillDiscovery/) <strong><span class='show_paper_citations' data='7at7KbUAAAAJ:u-x6o8ySG0sC'></span></strong>
+- We propose a self-supervised method, **Skill Boundary Detection (SBD)**, that segments unlabelled long videos into semantic aware skill-consistent parts by detecting prediction-error peaks.
+- In Minecraft experiments, SBD significantly improves both short-term and long-horizon task performance, enabling effective use of diverse online videos to train instruction-following agents.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+<div markdown="1">
+
+<span class="paper-title">LogicPuzzleRL: Cultivating Robust Mathematical Reasoning in LLMs via Reinforcement Learning</span>
+
+Zhen Hao Wong\*, **Jingwen Deng\***, Runming He, Zirong Chen, Qijie You, Hejun Dong, Hao Liang, Chengyu Shen, Bin Cui, Wentao Zhang
+
+**arXiv 2025** <strong><span class='show_paper_citations' data='7at7KbUAAAAJ:u5HHmVD_uO8C'></span></strong>
+
+[**Paper**](https://arxiv.org/abs/2506.04821) \| [**Code**](https://github.com/wongzhenhao/GameRL)
+
+</div>
+</div>
+
+# 📝 Works in Progress
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/agentic_rag_survey.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="paper-title">Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey</span>
+
+Jingwen Deng, Jihao Huang, Zhen Hao Wong, Hao Liang, Bin Cui, Wentao Zhang
+
+[**Project**](https://github.com/fatty-belly/Awesome-AgenticRAG-Data)
+
+This survey provides a data-centric overview of **Agentic RAG**, outlining its full data lifecycle and offering guidance for building scalable datasets to power adaptive, knowledge-seeking LLM agents.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2025**
+  - Leo KoGuan Scholarship, Peking University
+- **2024**
+  - Leo KoGuan Scholarship, Peking University
+  - First Prize, Mathematics competition of Chinese College Students
+- **2023**
+  - YanChuang Capital Scholarship, Peking University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 -* , Peking University, BS in Computer Science
+  - GPA: 3.834/4.0 (rank 9/146, top 7% in major)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09 -* , [DPTechnology](https://www.dp.tech/), China.
