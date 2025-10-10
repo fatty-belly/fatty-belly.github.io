@@ -23,7 +23,7 @@ Prior to this, I worked in Prof. Yitao Liang's [CraftJarvis](https://craftjarvis
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our survey page of "Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey" is out at [Awesome-AgenticRAG-Data](https://github.com/fatty-belly/Awesome-AgenticRAG-Data). 
+- *2025.10*: &nbsp;🎉🎉 Our survey page of "Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey" is out at [Awesome-AgenticRAG-Data](https://github.com/fatty-belly/Awesome-AgenticRAG-Data). 
 - *2025.06*: &nbsp;🎉🎉 Our paper "Open-World Skill Discovery from Unsegmented Demonstration Videos" is accepted by ICCV 2025.  
 
 # 📝 Publications 
@@ -62,7 +62,7 @@ Zhen Hao Wong\*, **Jingwen Deng\***, Runming He, Zirong Chen, Qijie You, Hejun D
 
 <span class="paper-title">Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey</span>
 
-Jingwen Deng, Jihao Huang, Zhen Hao Wong, Hao Liang, Bin Cui, Wentao Zhang
+**Jingwen Deng**, Jihao Huang, Zhen Hao Wong, Hao Liang, Bin Cui, Wentao Zhang
 
 [**Project**](https://github.com/fatty-belly/Awesome-AgenticRAG-Data)
 
