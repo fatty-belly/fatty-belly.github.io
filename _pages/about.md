@@ -35,7 +35,7 @@ Prior to this, I worked in Prof. Yitao Liang's [CraftJarvis](https://craftjarvis
 
 **Jingwen Deng\***, Zihao Wang\*, Shaofei Cai, Anji Liu, Yitao Liang
 
-[**Paper**](https://arxiv.org/pdf/2503.10684) \| [**Project**](https://craftjarvis.github.io/SkillDiscovery/) <strong><span class='show_paper_citations' data='7at7KbUAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2503.10684) \| [**Project**](https://craftjarvis.github.io/SkillDiscovery/) <strong><span class='show_paper_citations' data='7at7KbUAAAAJ:u-x6o8ySG0sC'></span></strong>
 - We propose a self-supervised method, **Skill Boundary Detection (SBD)**, that segments unlabelled long videos into semantic aware skill-consistent parts by detecting prediction-error peaks.
 - In Minecraft experiments, SBD significantly improves both short-term and long-horizon task performance, enabling effective use of diverse online videos to train instruction-following agents.
 </div>
@@ -64,9 +64,22 @@ Zhen Hao Wong\*, **Jingwen Deng\***, Runming He, Zirong Chen, Qijie You, Hejun D
 
 **Jingwen Deng**, Jihao Huang, Zhen Hao Wong, Hao Liang, Bin Cui, Wentao Zhang
 
-[**Project**](https://github.com/fatty-belly/Awesome-AgenticRAG-Data)
+[**Paper**](https://doi.org/10.36227/techrxiv.176316052.24300253/v1) \| [**Project**](https://github.com/fatty-belly/Awesome-AgenticRAG-Data)
 
 This survey provides a data-centric overview of **Agentic RAG**, outlining its full data lifecycle and offering guidance for building scalable datasets to power adaptive, knowledge-seeking LLM agents.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/vqa_pipeline.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="paper-title">FlipVQA-Miner: Cross-Page Visual Question–Answer Mining from Textbooks</span>
+
+Zhen Hao Wong\*, **Jingwen Deng\***, Hao Liang, Runming He, Chengyu Shen, Wentao Zhang
+
+[**Paper**](https://arxiv.org/abs/2511.16216) \| [**Project**](https://opendcai.github.io/DataFlow-Doc/zh/guide/vqa_extract_optimized/)
+
+We propose an automated pipeline that extracts well-formed QA and VQA pairs from college textbooks by combining layout-aware OCR with LLM-based semantic parsing. 
 </div>
 </div>
 
