@@ -23,7 +23,8 @@ Prior to this, I worked in Prof. Yitao Liang's [CraftJarvis](https://craftjarvis
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 Our survey page of "Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey" is out at [Awesome-AgenticRAG-Data](https://github.com/fatty-belly/Awesome-AgenticRAG-Data). 
+- *2026.04*: &nbsp;🎉🎉 Our project page of "FlipVQA: Scaling Multi-modal Instruction Tuning via Textbook-to-Knowledge Synthesis" is out at https://github.com/OpenDCAI/DataFlow-VQA.
+- *2026.04*: &nbsp;🎉🎉 Our survey "Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey" is accepted by ACL Findings 2026. 
 - *2025.06*: &nbsp;🎉🎉 Our paper "Open-World Skill Discovery from Unsegmented Demonstration Videos" is accepted by ICCV 2025.  
 
 # 📝 Publications 
@@ -41,6 +42,23 @@ Prior to this, I worked in Prof. Yitao Liang's [CraftJarvis](https://craftjarvis
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2026</div><img src='images/agentic_rag_survey.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="paper-title">Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey</span>
+
+**Jingwen Deng**, Jihao Huang, Zhen Hao Wong, Hao Liang, Quanqing Xu, Bin Cui, Wentao Zhang
+
+[**Paper**](https://doi.org/10.36227/techrxiv.176316052.24300253/v1) \| [**Project**](https://github.com/fatty-belly/Awesome-AgenticRAG-Data)
+
+This survey provides a data-centric overview of **Agentic RAG**, outlining its full data lifecycle and offering guidance for building scalable datasets to power adaptive, knowledge-seeking LLM agents.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/vqa_pipeline.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+
 <div class='paper-box'>
 <div markdown="1">
 
@@ -56,28 +74,11 @@ Zhen Hao Wong\*, **Jingwen Deng\***, Runming He, Zirong Chen, Qijie You, Hejun D
 </div>
 
 # 📝 Works in Progress
+<span class="paper-title">FlipVQA: Scaling Multi-modal Instruction Tuning via Textbook-to-Knowledge Synthesis</span>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/agentic_rag_survey.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
+Zhen Hao Wong\*, **Jingwen Deng\***, Yuzhao Wang, Wenkai Yu, Jihao Huang, Runming He, Chengyu Shen, Hao Liang, Wentao Zhang
 
-<span class="paper-title">Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey</span>
-
-**Jingwen Deng**, Jihao Huang, Zhen Hao Wong, Hao Liang, Bin Cui, Wentao Zhang
-
-[**Paper**](https://doi.org/10.36227/techrxiv.176316052.24300253/v1) \| [**Project**](https://github.com/fatty-belly/Awesome-AgenticRAG-Data)
-
-This survey provides a data-centric overview of **Agentic RAG**, outlining its full data lifecycle and offering guidance for building scalable datasets to power adaptive, knowledge-seeking LLM agents.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/vqa_pipeline.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-<span class="paper-title">FlipVQA-Miner: Cross-Page Visual Question–Answer Mining from Textbooks</span>
-
-Zhen Hao Wong\*, **Jingwen Deng\***, Hao Liang, Runming He, Chengyu Shen, Wentao Zhang
-
-[**Paper**](https://arxiv.org/abs/2511.16216) \| [**Project**](https://opendcai.github.io/DataFlow-Doc/zh/guide/vqa_extract_optimized/)
+[**Paper**](https://arxiv.org/abs/2511.16216) \| [**Project**](https://github.com/OpenDCAI/DataFlow-VQA)
 
 We propose an automated pipeline that extracts well-formed QA and VQA pairs from college textbooks by combining layout-aware OCR with LLM-based semantic parsing. 
 </div>
@@ -97,4 +98,5 @@ We propose an automated pipeline that extracts well-formed QA and VQA pairs from
   - GPA: 3.834/4.0 (rank 9/146, top 7% in major)
 
 # 💻 Internships
-- *2025.09 -* , [DPTechnology](https://www.dp.tech/), China.
+- *2026.01 -* , [Ubiquant](https://www.ubiquant.com), China.
+- *2025.09 -2025.12* , [DPTechnology](https://www.dp.tech/), China.
