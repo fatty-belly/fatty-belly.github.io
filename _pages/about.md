@@ -55,10 +55,6 @@ This survey provides a data-centric overview of **Agentic RAG**, outlining its f
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/vqa_pipeline.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-
 <div class='paper-box'>
 <div markdown="1">
 
@@ -74,6 +70,8 @@ Zhen Hao Wong\*, **Jingwen Deng\***, Runming He, Zirong Chen, Qijie You, Hejun D
 </div>
 
 # 📝 Works in Progress
+<div class='paper-box'><div class='paper-box-image'><img src='images/vqa_pipeline.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 <span class="paper-title">FlipVQA: Scaling Multi-modal Instruction Tuning via Textbook-to-Knowledge Synthesis</span>
 
 Zhen Hao Wong\*, **Jingwen Deng\***, Yuzhao Wang, Wenkai Yu, Jihao Huang, Runming He, Chengyu Shen, Hao Liang, Wentao Zhang
