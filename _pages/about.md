@@ -23,7 +23,7 @@ Prior to this, I worked in Prof. Yitao Liang's [CraftJarvis](https://craftjarvis
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Our project page of "FlipVQA: Scaling Multi-modal Instruction Tuning via Textbook-to-Knowledge Synthesis" is out at https://github.com/OpenDCAI/DataFlow-VQA.
+- *2026.04*: &nbsp;🎉🎉 Our project page of "FlipVQA: Scaling Multi-modal Instruction Tuning via Textbook-to-Knowledge Synthesis" is out [here](https://github.com/OpenDCAI/DataFlow-VQA).
 - *2026.04*: &nbsp;🎉🎉 Our survey "Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey" is accepted by ACL Findings 2026. 
 - *2025.06*: &nbsp;🎉🎉 Our paper "Open-World Skill Discovery from Unsegmented Demonstration Videos" is accepted by ICCV 2025.  
 
@@ -42,7 +42,7 @@ Prior to this, I worked in Prof. Yitao Liang's [CraftJarvis](https://craftjarvis
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2026</div><img src='images/agentic_rag_survey.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2026</div><img src='images/agentic_rag_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-title">Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey</span>
